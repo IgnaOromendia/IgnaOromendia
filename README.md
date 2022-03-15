@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgnaOromendia
 - 👀 I’m interested in programming and science
-- 🌱 I’m currently learning python and studying computer science in UBA
+- 🌱 I’m currently learning python and studying computer science at Universidad de Buenos Aires (UBA)
 - 📫 How to reach me ignaciooromendia@gmail.com
 
 <!---
