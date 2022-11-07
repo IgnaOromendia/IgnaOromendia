@@ -1,2 +1,4 @@
 - Computer science student at Universidad de Buenos Aires (UBA)
-- 📫 How to reach me ignaciooromendia@gmail.com
+- How to reach me ignaciooromendia@gmail.com
+- I've made a cousre about Data Analytics on CoderHouse
+- Currently learning HTML, CSS, JS, AJAX, PHP and MySQL on Udemy
