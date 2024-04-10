@@ -6,4 +6,6 @@
 
 ### Skills :
 - C++
+- Python
+- SmallTalk
 - Swift
